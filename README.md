@@ -1,4 +1,4 @@
-#Info
+# Info
 - Jos ei toimi niin tule laittamaan minun discordiini viestiä tai tee bug-report niin korjaan.
 - En ole itse testannut scriptiä joten ei ehkä saata toimia!
 - PS Tää oli nopea teos:D
